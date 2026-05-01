@@ -1,0 +1,47 @@
+# Python virtual environments 
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pygame / app logs
+*.log
+ 
+
+# OS files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+.env.*
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Test/cache tools
+.pytest_cache/
+*.pyc
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+
+
+# Temp files 
+*.swp
+*.swo
+*.bak
+*.tmp
