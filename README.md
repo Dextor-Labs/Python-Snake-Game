@@ -1,6 +1,5 @@
 # Snake-game
 
-
 A simple Snake game made with Python and pygame.
 
 ## About
@@ -25,7 +24,6 @@ The game includes:
 
 ## Project Structure
 
-
 snake_game/
 │
 ├── main.py
@@ -35,4 +33,3 @@ snake_game/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
